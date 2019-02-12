@@ -1,0 +1,1 @@
+# idea-java11-maven-build-bug
